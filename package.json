@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "nodejs twitter bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanBiggs/TwitterBot.git"
+  },
+  "author": "Ryan Biggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanBiggs/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/RyanBiggs/TwitterBot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
